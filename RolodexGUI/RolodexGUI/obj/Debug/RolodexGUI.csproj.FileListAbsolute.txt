@@ -1,0 +1,10 @@
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\bin\Debug\RolodexGUI.exe.config
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\bin\Debug\RolodexGUI.exe
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\bin\Debug\RolodexGUI.pdb
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.csprojAssemblyReference.cache
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.Properties.Resources.resources
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.csproj.GenerateResource.cache
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.csproj.CoreCompileInputs.cache
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.exe
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.pdb
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\RolodexGUI\RolodexGUI\RolodexGUI\obj\Debug\RolodexGUI.frmRolodex.resources
